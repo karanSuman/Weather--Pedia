@@ -18,7 +18,11 @@ JAVASCRIPT
 ## API Used
 
 1.Google https://fonts.google.com/specimen/Open+Sans
+
+
 2.Current Weather Data-https://openweathermap.org/
+
+
 3.Background picture-https://unsplash.com/@landscape/likes
 
 ## Gif file
